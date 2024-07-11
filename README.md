@@ -34,7 +34,7 @@ Professor: Martinenghi Davide
 
 If you want to try it yourself, I leave the [presentation](Presentation.pdf) and the [specification](Specification.pdf) files.
 
-To get perfect score you need to run test case [110](Tests/open_110.txt) and have the ouput in under a second and with less than 78 MB of memory used.
+To get perfect score you need to run test case [108](Tests/open_108.txt) and have the ouput in under a second and with less than 78 MB of memory used.
 
 ### How to run tests
 

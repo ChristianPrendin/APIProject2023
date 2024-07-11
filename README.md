@@ -45,7 +45,7 @@ To run test on your code you need three simple steps (example with test 1):
 
 ## Contact
 
-If you have contributions, need support, have suggestions, or just want to get in touch with the me, send me an [email](mailto:picamirko02@gmail.com)!
+If you have contributions, need support, have suggestions, or just want to get in touch with the me, send me an [email](mailto:Christianprendin@iCloud.com)!
 
 ## License
 

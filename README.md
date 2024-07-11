@@ -32,7 +32,7 @@ Professor: Martinenghi Davide
 
 ### Try it yourself!
 
-If you want to try it yourself, I leave the [presentation](Presentation.pdf) and the [specification](Specification.pdf) files.
+If you want to try it yourself, I leave the [presentation](Presentation.pdf).
 
 To get perfect score you need to run test case [108](Tests/open_108.txt) and have the ouput in under a second and with less than 78 MB of memory used.
 
